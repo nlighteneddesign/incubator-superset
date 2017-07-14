@@ -44,6 +44,7 @@ setup(
     install_requires=[
         'boto3==1.4.4',
         'celery==3.1.25',
+        'flask',
         'colorama==0.3.9',
         'cryptography==1.7.2',
         'flask-appbuilder==1.9.1',
